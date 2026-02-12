@@ -1,0 +1,7 @@
+{
+  "name": "Doora - Complete - 2",
+  "description": "Un'applicazione mobile che permette agli inquilini dello stesso palazzo di delegare il ritiro dei propri pacchi ad altri residenti verificati.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
